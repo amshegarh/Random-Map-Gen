@@ -1,0 +1,9 @@
+c:\users\amshegarh\documents\visual studio 2015\Projects\bullshit_01\bullshit_01\bin\Debug\bullshit_01.exe.config
+c:\users\amshegarh\documents\visual studio 2015\Projects\bullshit_01\bullshit_01\bin\Debug\bullshit_01.exe
+c:\users\amshegarh\documents\visual studio 2015\Projects\bullshit_01\bullshit_01\bin\Debug\bullshit_01.pdb
+c:\users\amshegarh\documents\visual studio 2015\Projects\bullshit_01\bullshit_01\obj\Debug\bullshit_01.csprojResolveAssemblyReference.cache
+c:\users\amshegarh\documents\visual studio 2015\Projects\bullshit_01\bullshit_01\obj\Debug\bullshit_01.Form1.resources
+c:\users\amshegarh\documents\visual studio 2015\Projects\bullshit_01\bullshit_01\obj\Debug\bullshit_01.Properties.Resources.resources
+c:\users\amshegarh\documents\visual studio 2015\Projects\bullshit_01\bullshit_01\obj\Debug\bullshit_01.csproj.GenerateResource.Cache
+c:\users\amshegarh\documents\visual studio 2015\Projects\bullshit_01\bullshit_01\obj\Debug\bullshit_01.exe
+c:\users\amshegarh\documents\visual studio 2015\Projects\bullshit_01\bullshit_01\obj\Debug\bullshit_01.pdb
