@@ -13,6 +13,7 @@ namespace bullshit_01
     public partial class Form1 : Form
     {
         int[,] array = new int[1024, 512];
+        Random r;
 
         public Form1()
         {
@@ -33,7 +34,7 @@ namespace bullshit_01
 
         public void button1_Click(object sender, EventArgs e)
         {
-            Random r = new Random(Convert.ToInt32(textBox1.Text));
+            r = new Random(Convert.ToInt32(textBox1.Text));
             for (int i = 0; i < 1024; i++)
                 for (int j = 0; j < 512; j++)
                     array[i, j] = 0;
@@ -119,6 +120,14 @@ namespace bullshit_01
                     SolidBrush b = new SolidBrush(c);
                     g.FillRectangle(b,i,j,1,1);
                 }
+            if (checkBox2.Checked)
+                g.DrawRectangle(new Pen(Color.Red,1), Convert.ToInt32(textBox6.Text), Convert.ToInt32(textBox7.Text), 128, 128);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form2 f = new Form2(array, Convert.ToInt32(textBox6.Text), Convert.ToInt32(textBox7.Text), r, Convert.ToInt32(textBox2.Text), Convert.ToInt32(textBox3.Text));
+            f.Show();
         }
     }
 }

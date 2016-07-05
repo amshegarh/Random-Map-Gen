@@ -7,3 +7,4 @@ c:\users\amshegarh\documents\visual studio 2015\Projects\bullshit_01\bullshit_01
 c:\users\amshegarh\documents\visual studio 2015\Projects\bullshit_01\bullshit_01\obj\Debug\bullshit_01.csproj.GenerateResource.Cache
 c:\users\amshegarh\documents\visual studio 2015\Projects\bullshit_01\bullshit_01\obj\Debug\bullshit_01.exe
 c:\users\amshegarh\documents\visual studio 2015\Projects\bullshit_01\bullshit_01\obj\Debug\bullshit_01.pdb
+C:\Users\amshegarh\Documents\Visual Studio 2015\Projects\bullshit_01\bullshit_01\obj\Debug\bullshit_01.Form2.resources
